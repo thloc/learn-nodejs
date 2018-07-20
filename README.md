@@ -7,3 +7,5 @@ Getting started learning Node.js
 
 ## Documents:
 - [w3schools](https://www.w3schools.com/js/default.asp)
+- [javascript.info](https://javascript.info/)
+- [moz://a](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
